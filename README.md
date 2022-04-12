@@ -1,27 +1,3 @@
-# Edvora-Task
-This is react app simulate rides it have main parts : Neartest , Upcoming , Past
-
-<section>
-<h2> Neartest </h2>
-<p> A nearest ride is a ride that includes your station code or a number closest to your station code in the station_path array. 
-For example, your station code is 40. So any ride that has your station code as nearest number in station_path array. 
- </p>
- <h4> filter </h4>
- <p> Every ride has state and city. You need to get state and city from every ride object and create a list of state & city for the filters dropdown. 
-State : It shows rides from that state only. City: It shows rides from selected city only. If a state is already selected then the city dropdown will have cities from selected state only. 
- </p>
-<img src="./public/Screen Shots/main.jpg" >
-</section>
-
-<section>
-<h2> Upcoming </h2>
-<p> It shows all rides which has date in future. </p>
-<img src="./public/Screen Shots/Upcoming.jpg" >
-</section>
-
-
-<section>
-<h2> Neartest </h2>
-<p> It shows all rides which has date in Past. which mean you can track you roads where to go  </p>
-<img src="./public/Screen Shots/Past.jpg" >
-</section>
+![image](https://user-images.githubusercontent.com/69020033/162989901-6aeadac0-e957-4bc4-b609-6cef15d1bbd8.png)![image](https://user-images.githubusercontent.com/69020033/162989900-924027a1-f51d-4000-811b-c2371b2045c1.png)
+![image](https://user-images.githubusercontent.com/69020033/162990024-d044fd0e-e95a-4861-b6b9-9466ba411984.png)
+![image](https://user-images.githubusercontent.com/69020033/162989969-84cc99ae-6eaf-486c-b437-5181d470df7a.png)
